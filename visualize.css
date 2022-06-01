@@ -1,0 +1,19 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  padding: 0;
+  background-color: burntsienna;
+  color: white;
+}
+
+h1 {
+  font-size: 42px;
+}
+
+p {
+  font-size: 24px;
+}
